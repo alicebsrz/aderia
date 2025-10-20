@@ -1,0 +1,22 @@
+# Arquivo de configuração do ambiente 
+.env
+
+# Pasta de dependências do Node.js
+node_modules/
+
+# Arquivos de log gerados pelo NPM
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de log de erros
+error_log
+npm-debug.log
+
+# Configurações de editores de código
+.vscode/
+.idea/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db

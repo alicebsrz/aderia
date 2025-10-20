@@ -1,0 +1,24 @@
+# Arquivo de configuração do ambiente - Contém a URL da API
+.env
+
+# Pasta de dependências do Node.js
+node_modules/
+
+# Pasta de build gerada pelo Vite
+dist/
+
+# Arquivos de log gerados pelo NPM
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cache do Vite
+.vite/
+
+# Configurações de editores de código
+.vscode/
+.idea/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
