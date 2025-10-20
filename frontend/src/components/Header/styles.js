@@ -132,6 +132,22 @@ export const MobileMenu = styled.div`
       color: #da627d;
     }
   }
+
+  .nav-button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    font-size: 1.5rem; /* Mesmo tamanho dos links */
+    color: #333; /* Mesma cor */
+    font-family: inherit; /* Mesma fonte */
+    font-weight: 500; /* Mesmo peso */
+    text-align: left; /* Alinha com os outros links */
+
+    &:hover {
+      color: #da627d;
+    }
+  }
 `;
 
 // Damos uma classe para os componentes que vamos esconder no mobile

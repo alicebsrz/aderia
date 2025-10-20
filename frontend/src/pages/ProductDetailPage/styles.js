@@ -167,6 +167,7 @@ export const QuantitySelectorContainer = styled.div`
   border: 1px solid #ccc;
   border-radius: 5px;
   width: fit-content;
+  margin-bottom: 20px;
 `;
 
 export const QuantityButton = styled.button`
